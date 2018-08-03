@@ -15,7 +15,8 @@ class HelloWorld{
 	}
 
 	void heyMethod(){
-	// ajxnaneu
+	
+		Sysout("Print Hey...!!!");
 	}
 
 }
