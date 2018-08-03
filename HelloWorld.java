@@ -1,7 +1,9 @@
 class HelloWorld{
 
 	void myMethod(){
-	//	slakjhe
+	//	method to display date
+
+	sysout("Today's date is:"+date);
 	}
 	public static void main(String[] args){
 
