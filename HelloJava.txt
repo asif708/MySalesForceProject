@@ -1,8 +1,8 @@
-class helloworld{
+class HelloWorld{
 
-main(){
+public static void main(){
 
-sysout("Hello world");
+System.out.println("Hello world");
 }
 
 }
