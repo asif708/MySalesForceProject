@@ -16,7 +16,7 @@ class HelloWorld{
 
 	void heyMethod(){
 		
-		System.out.prinln("Hello ....how are you...kaiseee hooo...!!!");		
+		System.out.prinln("Hello ....how are you?..kaiseee hooo...!!!");		
 
 	}
 
