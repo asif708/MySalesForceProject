@@ -15,7 +15,9 @@ class HelloWorld{
 	}
 
 	void heyMethod(){
-	// ajxnaneu
+		
+		System.out.prinln("Hello ....how are you...kaiseee hooo...!!!");		
+
 	}
 
 }
